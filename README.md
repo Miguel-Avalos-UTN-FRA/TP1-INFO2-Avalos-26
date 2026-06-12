@@ -1,9 +1,10 @@
 # TP1-INFO2-Avalos-26
 Trabajo Práctico Nº 1
-La sucursal donde esta el usuario.
-El artículo.
-La cantidad.
-Descripción del artículo.
+1.-La sucursal donde esta el usuario.
+2.-El artículo.
+3.-La cantidad.
+4.- Descripción del artículo.
+
 Estructura del programa:
 Este programa se divide en tres archivos:
 
