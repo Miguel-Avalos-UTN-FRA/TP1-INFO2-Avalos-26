@@ -3,7 +3,7 @@ Trabajo Práctico Nº 1
 1.-La sucursal donde esta el usuario.
 2.-El artículo.
 3.-La cantidad.
-4.- Descripción del artículo.
+4.-Descripción del artículo.
 
 Estructura del programa:
 Este programa se divide en tres archivos:
